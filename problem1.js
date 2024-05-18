@@ -33,4 +33,4 @@ const filterFemaleAndRestPeopleMap = (arr) => {
 };
 
 const maleNames = filterFemaleAndRestPeopleMap(peoples);
-console.log(maleNames);
+// console.log(maleNames);
